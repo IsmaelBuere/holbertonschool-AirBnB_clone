@@ -5,3 +5,9 @@ body {
     font-size: 14px;
     color: #484848;
 }
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    flex: 1 0 auto;
+}
