@@ -5,6 +5,7 @@ header {
     border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
+    background-position: 20px center;
 }
 
 header img {
